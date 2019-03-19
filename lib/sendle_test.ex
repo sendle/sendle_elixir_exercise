@@ -1,18 +1,17 @@
-defmodule SendleTest do
+defmodule SendleCodeTest do
   @moduledoc """
   Documentation for SendleTest.
   """
 
-  @doc """
-  Hello world.
+  def new(_opts \\ []) do
 
-  ## Examples
+  end
 
-      iex> SendleTest.hello
-      :world
+  def get_quotes(_pricing_model, _shipments) do
 
-  """
-  def hello do
-    :world
+  end
+
+  def print_quotes(_quotes) do
+
   end
 end

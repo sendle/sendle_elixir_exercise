@@ -1,0 +1,6 @@
+range,max_weight,price
+same-zone,5000,4.10
+same-zone,10000,10.20
+different-zone,500,4.50
+different-zone,5000,9.50
+different-zone,10000,14.90
