@@ -45,7 +45,7 @@ The pricing model should be built from the following two data files. These files
 
 ## Submitting the test
 
-When you have completed the exercise and whish to submit your work, please do the following:
+When you have completed the exercise and wish to submit your work, please do the following:
 
 1. Make sure all your work is commited to your branch, good commit messages and telling a story
    through the commits is a good thing.
