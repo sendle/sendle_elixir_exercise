@@ -15,7 +15,7 @@ defmodule SendleCodeTestTest do
     shipments = [
       # You'll need to fill in this list and so it produces the
       # expected_display when it's run through the quote system.
-      # You can model this data structure as you like.
+      # You can model this data structure as you please.
     ]
 
     quotes = SendleCodeTest.get_quotes(pricing, shipments)
