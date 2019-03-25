@@ -28,13 +28,13 @@ defmodule SendleCodeTestTest do
 
     Brisbane, 4000 to Brisbane, 4000, 200gm: $4.10
     Adelaide, 5000 to Sydney, 2000, 4000gm: $9.50
-    Sydney, 2000 to Glebe, 2037, 5000gm: $10.20
+    Sydney, 2000 to Glebe, 2037, 5000gm: $4.10
     Perth, 6000 to Brisbane, 4000, 10000gm: $14.90
     Melbourne, 3000 to Modbury, 5092, 12000gm: -
     South Perth, 6151 to Brisbane, 4000, 8000gm: -
     Fremantle, 6160 to Adelaide, 5000, 500gm: $4.50
 
-    Total: $43.20
+    Total: $37.10
     """
 
     assert expected_display == display
