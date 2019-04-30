@@ -1,5 +1,7 @@
 # Sendle Elixir Coding Test
 
+**DO NOT FORK THIS REPOSITORY IN GITHUB, JUST CLONE IT AND FOLLOW THE INSTRUCTIONS FOR SUBMISSION AT THE END OF THE README**
+
 Hi, thanks for taking the Sendle Elixir coding test.
 
 The purpose of this test is for us to get a sense of your skill level with the Elixir
