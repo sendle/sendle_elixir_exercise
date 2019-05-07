@@ -36,7 +36,7 @@ and display the prices of a number of shipments.
 * Shipments are priced based on delivery range and weight.
 * Range is determined by the zones of the origin and destination suburbs.
 * If the suburbs are in the same zone, the range is `same-zone`.
-* If the origin is in two different zones, the range is `different-zone`.
+* If the origin and destination are in different zones, the range is `different-zone`.
 * If either the origin or destination is not in a zone, the shipment is not serviced.
 * If the weight exceeds the maxium weight, the shipment is not serviced.
 
