@@ -1,10 +1,10 @@
-# Sendle Elixir Coding Test
+# Sendle Elixir Technical Exercise
 
 **DO NOT FORK THIS REPOSITORY IN GITHUB, JUST CLONE IT AND FOLLOW THE INSTRUCTIONS FOR SUBMISSION AT THE END OF THE README**
 
-Hi, thanks for taking the Sendle Elixir coding test.
+Hi, thanks for taking the Sendle Elixir Technical Exercise.
 
-The purpose of this test is for us to get a sense of your skill level with the Elixir
+The purpose of this exercise is for Sendle to get a sense of your skill level with the Elixir
 Programming Language and to see how you think and your problem solving approach.
 
 The problem we've chosen is a pricing system, since we use Elixir extensively in our
@@ -45,7 +45,7 @@ The pricing model should be built from the following two data files. These files
 * `zones.csv` This contains the zone information. Zones are lists of suburbs, postcode pairs and a zone name.
 * `prices.csv` Each row contains the price to deliver a parcel of a given weight for a given range. All prices are in the same currency and weights are in grams.
 
-## Submitting the test
+## Submitting the Exercise
 
 When you have completed the exercise and wish to submit your work, please do the following:
 
